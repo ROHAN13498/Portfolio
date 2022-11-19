@@ -1,0 +1,27 @@
+.center {
+    position: relative;
+    left: 650px;
+    width: 150px;
+}
+.style{
+    position:absolute;
+    left: 710px;
+    top: 270px;
+    font-family:Comic Sans MS, Comic Sans, cursive;
+    font-size:larger;
+}
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+}
+table{
+    border-collapse: collapse;
+    margin: 25px 0;
+}
+td,th{
+    border-style: solid;
+    border-width:2px;
+}
+.r{
+    color:#1b4ba300;
+}
